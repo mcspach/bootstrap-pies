@@ -1,5 +1,17 @@
+body {
+  padding: 60px 0 0 0;
+  z-index: 0
+}
+
+.navbar-custom {
+  background-color: rgba(57, 10, 10, 0.7);
+  height: 60px;
+  align-items: center;
+}
+
 .pink-back {
   background-color: rgb(244, 178, 178);
+  border-radius: 0;
 }
 
 .pizza-back {
