@@ -50,23 +50,22 @@ color: rgba(255, 255, 255, 0.9);
 
 .pizza-back {
   background-image: url('https://images.unsplash.com/photo-1490717064594-3bd2c4081693?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1350&q=80');
-  width: 85%;
-  height: 500px;
-  margin-bottom: 5%;
+  height: 400px;
+  margin-bottom: 10%;
   background-size: cover;
   background-position: right;
-  box-shadow: 25px 25px rgb(244, 178, 178);
+  box-shadow: 32px 32px rgba(108, 2, 2, 0.9);
 }
 
 .over-text {
-  text-align: center;
+  height: 200px;
+  width: 200px;
   position: relative;
-  right: -75px;
-  top: 20px;
+  right: 10%;
+  top: 10%;
   color: rgb(244, 178, 178);
   background-color: black;
-  padding: 80px 60px;
-  border: 6px solid rgb(244, 178, 178);
+  border: 16px solid rgb(244, 178, 178);
   border-radius: 50%;
 }
 
