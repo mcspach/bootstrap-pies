@@ -1,0 +1,17 @@
+.menu-card {
+  background-size: cover;
+  background-position: center;
+  height: 220px;
+  border: 4px solid white;
+  color: white;
+  text-shadow: 3px 4px 4px rgb(108, 2, 2);
+  justify-content: center;
+}
+
+.menu-card h3 {
+  transition: 0.3s;
+}
+
+.menu-card h3:hover {
+  transform: scale(1.3);
+}
